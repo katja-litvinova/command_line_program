@@ -4,7 +4,7 @@ It prints all the found songs in alphabetical order, sorted primarily by the art
 # Instruction for using:
 
 1. Install python 3.9
-2. Install pip
+2. Install pip 21.1.2
 3. Create a virtual environment:
 
     ```bash
